@@ -1,5 +1,5 @@
 # MATRIX MULTIPLICATION - SQUARE MATRIX 
-# FOR LOOP AND NUMPY
+# FOR LOOP AND NUMPY dot() FUNCTION
 
 import numpy as np
 import time
