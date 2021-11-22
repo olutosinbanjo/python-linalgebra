@@ -17,7 +17,7 @@
 
             C. A versus B; A,B versus np.dot()
             
- By: Oluwatosin S. Oluseyi <olutosinbanjo@gmail.com>
+ @author: Oluwatosin S. Oluseyi <olutosinbanjo@gmail.com>
  
 """
 
